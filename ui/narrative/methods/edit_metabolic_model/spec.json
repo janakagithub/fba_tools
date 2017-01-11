@@ -4,7 +4,7 @@
    "authors" : ["nconrad@anl.gov"],
    "contact" : "http://kbase.us/contact-us",
    "visble" : false,
-   "categories" : ["inactive"]],
+   "categories" : ["inactive"],
    "widgets" : {
      "input" : "kbaseEditModel",
      "output" : "null"
